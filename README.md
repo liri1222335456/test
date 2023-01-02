@@ -12,8 +12,6 @@ I go by **she/her** pronouns
 
 This is a **Alt Account** for my Friday Night Funkin' related projects
 
-my main account can be found [here](https://github.com/BeastlyGhost)
-
 ----------------------------------------------
 ### Social Media Pages
 
