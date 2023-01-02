@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">👋 Hello, My name is Gabriela</h1>
-  <h2 align="center">Known as BeastlyGhost, or just Ghost for short</h2>
-  <h3 align="center">Waaiit a Minute something isn't right here</h3>
+  <img src="https://cdn.discordapp.com/attachments/930661629505466448/1059336186407166064/722_Sem_Titulo_20230102020014.png" width="800"/></a>
+  <h1 align="center">Known as BeastlyGhost, or just Ghost for short</h1>
+  <h2 align="center">Waaiit a Minute something isn't right here</h2>
 </p>
 
 ----------------------------------------------
