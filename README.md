@@ -1,16 +1,22 @@
-### Hi there 👋
+<p align="center">
+  <h1 align="center">👋 Hello, My name is Gabriela</h1>
+  <h2 align="center">Known as BeastlyGhost, or just Ghost for short</h2>
+  <h3 align="center">Waaiit a Minute something isn't right here</h3>
+</p>
 
-<!--
-**BeastlyGabi/BeastlyGabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------------------
 
-Here are some ideas to get you started:
+Proud Transfem 🏳️‍⚧️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I go by **she/her** pronouns
+
+This is a **Alt Account** for my Friday Night Funkin' related projects
+
+my main account can be found [here](https://github.com/BeastlyGhost)
+
+----------------------------------------------
+### Social Media Pages
+
+[@BeastlyGhost#9035 - Discord](discord.com/users/597124141530742805)
+
+[@BeastlyGabi - Twitter](https://twitter.com/BeastlyGabi)
