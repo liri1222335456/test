@@ -20,3 +20,5 @@ my main account can be found [here](https://github.com/BeastlyGhost)
 [@BeastlyGhost#9035 - Discord](discord.com/users/597124141530742805)
 
 [@BeastlyGabi - Twitter](https://twitter.com/BeastlyGabi)
+
+[MAIN ACCOUNT](https://github.com/BeastlyGhost)
