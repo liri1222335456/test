@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/930661629505466448/1060366241665138819/banner_new_github.png" width="800"/></a>
+  <img src="https://cdn.discordapp.com/attachments/930661629505466448/1060750740559233034/banner.png" width="800"/></a>
   <h1 align="center">Known as BeastlyGhost, or just Ghost for short</h1>
   <h2 align="center">Waaiit a Minute something isn't right here</h2>
 </p>
