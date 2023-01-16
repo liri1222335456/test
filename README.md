@@ -10,7 +10,7 @@ Proud Transfem 🏳️‍⚧️
 
 I go by **she/her** pronouns
 
-This is a **Alt Account** for my Friday Night Funkin' related projects
+This is a **Alt Account** for my archives and other miscellaneous projects
 
 ----------------------------------------------
 ### Social Media Pages
